@@ -1,0 +1,60 @@
+@font-face {
+  font-family: 'Museo Slab 300';
+  src: url('Museo_Slab_300.eot'); /* IE9 Compat Modes */
+  src: url('Museo_Slab_300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('Museo_Slab_300.woff') format('woff'), /* Modern Browsers */
+       url('Museo_Slab_300.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('Museo_Slab_300.svg#7b3822210222b32bda062ef31191681b') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  400;
+}
+
+@font-face {
+  font-family: 'Museo Slab 500';
+  src: url('Museo_Slab_500.eot'); /* IE9 Compat Modes */
+  src: url('Museo_Slab_500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('Museo_Slab_500.woff') format('woff'), /* Modern Browsers */
+       url('Museo_Slab_500.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('Museo_Slab_500.svg#e2b4a901dc21adc8c4deecbedb302532') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  400;
+}
+
+@font-face {
+  font-family: 'Museo Sans 300';
+  src: url('MuseoSans_300.eot'); /* IE9 Compat Modes */
+  src: url('MuseoSans_300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('MuseoSans_300.woff') format('woff'), /* Modern Browsers */
+       url('MuseoSans_300.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('MuseoSans_300.svg#83308de0ca4237e6cd44fbae61d13495') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  400;
+}
+
+@font-face {
+  font-family: 'Museo Sans 300';
+  src: url('MuseoSans_300_Italic.eot'); /* IE9 Compat Modes */
+  src: url('MuseoSans_300_Italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('MuseoSans_300_Italic.woff') format('woff'), /* Modern Browsers */
+       url('MuseoSans_300_Italic.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('MuseoSans_300_Italic.svg#e7e0b636715d0dffac9795f07ed90250') format('svg'); /* Legacy iOS */
+       
+  font-style:   italic;
+  font-weight:  400;
+}
+
+@font-face {
+  font-family: 'Museo Sans 500';
+  src: url('MuseoSans_500.eot'); /* IE9 Compat Modes */
+  src: url('MuseoSans_500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('MuseoSans_500.woff') format('woff'), /* Modern Browsers */
+       url('MuseoSans_500.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('MuseoSans_500.svg#def45dfa0767cb06d134930a9f004794') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  400;
+}
+
